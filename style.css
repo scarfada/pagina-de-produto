@@ -1,0 +1,62 @@
+
+
+#principal{
+
+  height: 48px;
+width: 375px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+#principal{
+  position:absolute;
+  left:0% 0% 0% 0%;
+  background-color: #9c0d0d;
+ 
+
+}
+.header-topo menu{
+  margin-top: 10%;
+  display: block;
+}
+.animale{
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 70px;
+  
+  height: 33px;
+  width: 100px;
+}
+.bolsa{
+ position:relative;
+ left: 120px;
+ margin-top: 0px;
+}
+
+ .lupa{
+   position:relative;
+   left: 115px;
+   
+}
+
+ .item{
+   background-color: #F3F3F3;
+   border:1px solid #1f1c1c;
+  height: 48px;
+width: 375px;
+text-align: center;
+display: block;
+
+
+
+
+
+
+
+
+
+ }
+
+
+ 
